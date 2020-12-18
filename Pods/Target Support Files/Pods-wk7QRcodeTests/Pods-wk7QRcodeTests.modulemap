@@ -1,0 +1,6 @@
+framework module Pods_wk7QRcodeTests {
+  umbrella header "Pods-wk7QRcodeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
